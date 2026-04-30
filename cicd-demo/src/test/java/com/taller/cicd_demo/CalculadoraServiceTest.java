@@ -1,11 +1,8 @@
-package com.taller.cicd_demo.service;
-
-
+package com.taller.cicd_demo;
+import com.taller.cicd_demo.service.CalculadoraService;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-import com.taller.cicd_demo.service.CalculadoraService;
-
 
 class CalculadoraServiceTest {
 
